@@ -4,7 +4,7 @@ published: 2019-09-21
 description: |-
   I'm not quite ready to share this post with the world
   ladida
-image: images/7a4bf0cd186a91d70fdf324a7309920f.png
+image: images/elm-logo.svg
 author: Dillon Kearns
 type: blog
 draft: true
